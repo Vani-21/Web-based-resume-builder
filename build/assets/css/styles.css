@@ -1,0 +1,11 @@
+body {
+    background: #e3e5e7;
+}
+
+.navbar {
+    border-bottom-width: 0px;
+}
+
+.nav-link:hover {
+    background: gray;
+}

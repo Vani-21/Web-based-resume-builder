@@ -1,0 +1,70 @@
+/* #theme1 {
+  width: 90%;
+  margin: auto;
+} */
+.h_1{
+  padding-left: 100px;
+  padding-top: 25px;
+ 
+}
+
+.h_2{
+  background-color: rgba(0, 0, 0, 0.875);
+}
+
+/* Skills Set  */
+.skill-badge {
+    background-color: white !important;
+    color: black !important;
+    margin: 5px;
+  }
+  
+  .skillBox {
+      display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .languageBox {
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+  .basic-set {
+    /* width: 61%; */
+    margin: 0rem 5rem;
+    padding-top: 10px;
+  }
+  
+  
+  /* Utility  */
+  .subBox {
+    margin-bottom: 15px;
+  }
+  
+  .sub-details {
+    padding: 0px 10px;
+  }
+  
+  .sub-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+  }
+
+  #resume-avatar_ {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    object-position: 50% 25%;
+   
+}
+  
+  /* media quires */
+  @media only screen and (max-width: 450px) {
+    .basic-set {
+      margin: 0rem 1rem;
+    }
+  }
+
+  
